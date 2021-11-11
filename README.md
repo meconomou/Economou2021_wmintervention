@@ -1,6 +1,6 @@
 # Economou2021_wmintervention
 
-Add description
+The documentation of this repository is work in progress
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
