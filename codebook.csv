@@ -1,0 +1,23 @@
+"name";"label";"value_labels"
+"id";"Unique subject identifier";NA
+"intervention";"Intervention group assignment";"GG_NE. GG-Flemish,
+ActiveControl. Active control,
+CONTROL. Typical control"
+"risk";"Cognitive risk for dyslexia";"1. Has a risk,
+0. Does not have a risk"
+"sex";"sex";"F. female,
+M. male"
+"FR";"Familial risk for dyslexia";"1. Has a risk,
+0. Does not have a risk"
+"M_SES";"Socio-economic status (maternal education level)";"1. No extra degree after secondary school,
+2. Professional/academic bachelor,
+3. Master or PhD"
+"LQ";"Laterality quotient";"LH. Left handed,
+AD. Ambidextrous,
+RH. Right handed"
+"tract";NA;"Arcuate. AFdirect (temporo-parietal segment),
+SLF. AFanterior (fronto-parietal segment),
+IFOF. Inferior fronto-occipital fasciculus,
+ILF. Inferior longitudinal fasciculus"
+"mean_RMSt";"Average absolute translational displacement (mm)";NA
+"ageM";"Age at MRI (months)";NA
