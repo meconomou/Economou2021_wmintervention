@@ -1,4 +1,4 @@
-# Economou2021_wmintervention
+# Economou2022_wmintervention
 
 This repository contains data and code to reproduce the findings reported in:
 
