@@ -1,6 +1,8 @@
 # Economou2021_wmintervention
 
-The documentation of this repository is work in progress
+This repository contains data and code to reproduce the findings reported in:
+
+Economou, M., Van Herck, S., Vanden Bempt, F., Glatz, T., Wouters J.,  Ghesquière, P., Vanderauwera, J. and Vandermosten, M. (2022). Investigating the Impact of Early Literacy Training on White Matter Structure in Prereaders at Risk for Dyslexia. *Cerebral Cortex*.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
