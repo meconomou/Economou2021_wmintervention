@@ -1,4 +1,4 @@
-# 
+# README
 
 This repository contains data and code to reproduce the findings reported in:
 
